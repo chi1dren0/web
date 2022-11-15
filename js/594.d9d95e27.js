@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_app"]=self["webpackChunkmy_app"]||[]).push([[594],{9594:function(e,n,t){t.r(n),t.d(n,{default:function(){return s}});var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("h1",[e._v("我是PageTwo")])},r=[],a={data(){return{}}},l=a,c=t(1001),p=(0,c.Z)(l,u,r,!1,null,null,null),s=p.exports}}]);
+//# sourceMappingURL=594.d9d95e27.js.map
